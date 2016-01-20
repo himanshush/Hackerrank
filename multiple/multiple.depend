@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1452478329 source:c:\data\hackerrank\multiple\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<queue>
+	<functional>
+

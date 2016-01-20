@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1452487128 source:c:\data\hackerrank\two_sum\main.cpp
+	<iostream>
+	<vector>
+	<map>
+

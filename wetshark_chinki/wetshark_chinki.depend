@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1452218078 source:c:\data\hackerrank\wetshark_chinki\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+	<cstring>
+

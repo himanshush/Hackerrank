@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1451780129 source:c:\data\hackerrank\bfs\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+	<list>
+	<queue>
+

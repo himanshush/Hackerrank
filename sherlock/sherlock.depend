@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1451496970 source:c:\data\hackerrank\sherlock\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+	<map>
+
